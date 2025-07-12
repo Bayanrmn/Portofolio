@@ -869,3 +869,10 @@ footer {
   align-items: center;
   gap: 5px;
 }
+
+/* @media (max-width: 768px) {
+  .hamburger {
+    display: block;
+    z-index: 1001;
+    }
+} */
